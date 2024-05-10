@@ -1,3 +1,5 @@
+package sorts;
+
 public class Quick {
 
     public static void quickSort(int[] arr, int from, int to) {

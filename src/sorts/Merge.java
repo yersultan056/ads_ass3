@@ -1,3 +1,5 @@
+package sorts;
+
 public class Merge {
     public static int[] mergeSort(int[] array) {
         int[] tmp;
